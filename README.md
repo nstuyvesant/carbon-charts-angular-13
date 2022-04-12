@@ -1,4 +1,6 @@
-# CarbonAngular13
+# Example of Carbon Charts with Angular 13
+
+This is an example of how to include Carbon Charts Donut in an Angular 13.3 project. It loads the required style information /src/app/styles.scss. Some charts may require **carbon-components** and/or **@carbon/themes** npm packages to properly style them. If needed, those imports (eg `@import '@carbon/themes/scss/themes';`) should be added to styles.scss.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.2.
 
