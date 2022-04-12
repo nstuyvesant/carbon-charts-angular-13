@@ -9,7 +9,7 @@
     "test": "ng test"
   },
   "private": false,
-  "license": "https://github.com/nstuyvesant/arbon-charts-angular-13/blob/main/LICENSE",
+  "license": "https://github.com/nstuyvesant/carbon-charts-angular-13/blob/main/LICENSE",
   "engines": {
     "node": "^16.14.2",
     "npm": "^8.6.0"
